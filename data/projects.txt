@@ -1,0 +1,70 @@
+
+2008
+- Mars 2008 : eZ-Remember (IUT)
+- Mars 2008 : DefiQuizz (perso)
+- Juin 2008 : Wikitel (stage Osimatic)
+- Juillet 2008 : Photos de la famille Guiraudou (perso)
+- Juillet 2008 : Agora Foot (CDD Osimatic)
+- Septembre 2008 : USBS Epône (perso)
+- Novembre 2008 : interConf (Contrat apprentissage Osimatic)
+
+2009
+- Janvier 2009 : DefiQuizz (v1.5) (perso)
+- Février 2009 : myConf (Contrat apprentissage Osimatic)
+- Avril 2009 : myCallBack (Contrat apprentissage Osimatic)
+- Juin 2009 : Pilotage myConf (partage de document) (Contrat apprentissage Osimatic)
+- Aout 2009 : Photos de la famille Guiraudou (v2) (perso)
+
+2010
+- Septembre 2009 : USBS Epône (v2) (CDI année 1)
+- novembre 2009 : interConf (options) (CDI année 1)
+- décembre 2009 : Site Osimatic (modernisation) (CDI année 1)
+- février 2010 : openConf (CDI année 1)
+- mars 2010 : myTime (CDI année 1)
+- mars 2010 : Facturation (CDI année 1)
+- avril 2010 : easyConf (référencement) (CDI année 1)
+- juin 2010 : AgoraFoot (v2) (CDI année 1)
+- septembre 2010 : teleConf (CDI année 2)
+- décembre 2010 : myCallBack (v2) (CDI année 2)
+
+2011
+- janvier 2011 : myTime (planning) (CDI année 2)
+- avril 2011 : Pilotage myConf (enregistrement) (CDI année 2)
+- juillet 2011 : Extranet audiotel (CDI année 2)
+
+2012
+- mars 2012 : Audiotel (numéro tournant) (CDI année 3)
+- avril 2012 : Audiotel (micropaiement) (CDI année 3)
+- mai 2012 : Site Osimatic (CDI année 3)
+- mai 2012 : Benoit Guiraudou (perso)
+- septembre 2012 : USBS Epône (v3) (perso)
+- octobre 2012 : Parodie série (perso)
+
+2013
+- Janvier 2013 : Interface Administration Osimatic (CDI année 4)
+- Mai 2013 : Site Agoratel (CDI année 4)
+- Novembre 2013 : myConf (reponsive) (CDI année 5)
+- Décembre 2013 : openConf (reponsive) (CDI année 5)
+
+2014
+- Janvier 2014 : Interface Administration Osimatic (v2) (CDI année 5)
+- Février 2014 : Wikitel (v2) (CDI année 5)
+- Mai 2014 : interConf (v2) (CDI année 5)
+- septembre 2014 : myTime (création application mobile Android et IOS, fonctionnalités géolocalisation,...) (CDI année 6)
+- octobre 2014 : audioConf (référencement) (CDI année 6)
+- octobre 2014 : myCallBack (reponsive) (CDI année 6)
+- octobre 2014 : Benoit Guiraudou (v2) (perso)
+
+2016
+- myTime (création API, fonctionnalités congés)
+
+2019
+- myConf (API Symfony, nouveau design, paiement à l'utilisation avec CB enregisrée)
+- openConf (API Symfony, nouveau design)
+
+2020
+- octobre 2020 : myTime (fonctionnalités télétravail, déplacements)
+
+2021
+- juin 2021 : myTime (nouveau design, fonctionnalités planifications récurrentes)
+- septembre 2021 : Chef Julien

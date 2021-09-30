@@ -1,0 +1,272 @@
+﻿
+/* Général */
+body {
+	font-weight: normal;
+}
+img {
+	display: inline;
+}
+
+/* Header */
+
+.navbar .navbar-brand {
+	font-size: 20px;
+}
+
+.navbar>.container .navbar-brand {
+	margin-left: 30px;
+}
+
+@media (min-width: 768px) {
+	.navbar .navbar-brand {
+		font-size: 36px;
+	}
+	.navbar>.container .navbar-brand {
+		margin-left: 5px;
+	}
+}
+
+header.navbar {
+	background: #2c3e50;
+	padding-bottom: 20px;
+}
+body.green header.navbar {
+	background: #1B5E20;
+}
+body.red header.navbar {
+	background: #502c2c;
+}
+body.ocean header.navbar {
+	background: #004D40;
+}
+body.purple header.navbar {
+	background: #502c4c;
+}
+
+.navbar .navbar-main > li:focus > a, .navbar .navbar-main > li:active > a, .navbar .navbar-main > li:hover > a, .navbar .navbar-main > li.active > a, .navbar .navbar-main > li.active:hover > a, .navbar .navbar-main > li.open > a, .navbar .navbar-main > li.open:hover > a {
+	background-color: #8f8f8f;
+	color: #fff;
+}
+
+.link_lang {
+	/*float: right;*/
+	position: fixed;
+	z-index: 1500;
+	top: 2px;
+	left: 2px;
+	margin: 10px 10px;
+}
+
+.link_lang img {
+	width: 20px;
+}
+
+/* Body */
+
+
+/* Footer */
+
+section.bottom {
+	background-color: #34495e;
+}
+body.green section.bottom {
+	background-color: #2E7D32;
+}
+body.red section.bottom {
+	background-color: #5e3434;
+}
+body.ocean section.bottom {
+	background-color: #345e4c;
+}
+body.purple section.bottom {
+	background-color: #5e345a;
+}
+
+
+section.bottom a {
+	color: #bdc3c7;
+}
+section.bottom a:hover {
+	text-decoration: underline;
+}
+
+
+section.bottom h3 {
+	margin-top: 0;
+}
+
+section.bottom .about_me {
+	/*text-align: justify;*/
+}
+
+section.bottom ul.menu {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+div.follow_me a img {
+	max-width: 32px;
+	margin: 0 5px 5px 10px;
+	border-radius: 100%;
+}
+
+#footer a:hover {
+	text-decoration: underline;
+	color: inherit;
+}
+
+footer {
+	background: #2c3e50;
+}
+body.green footer {
+	background: #1B5E20;
+}
+body.red footer {
+	background: #502c2c;
+}
+body.ocean footer {
+	background: #2c5040;
+}
+body.purple footer {
+	background: #502c4c;
+}
+
+
+footer p.set_color {
+	text-align: center;
+}
+footer a.btn-preset {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+}
+footer a.btn-preset span {
+	text-indent: -9999em;
+	float: left;
+	display: block;
+	overflow: hidden;
+}
+footer a.btn-preset.preset_blue {
+	background: #1586C3;
+}
+footer a.btn-preset.preset_green {
+	background: #1ABC9C;
+}
+footer a.btn-preset.preset_red {
+	background: #E6632D;
+}
+footer a.btn-preset.preset_ocean {
+	background: #15c37b;
+}
+footer a.btn-preset.preset_purple {
+	background: #9815c3;
+}
+
+/* Form */
+
+form {
+	border-radius: 4px;
+	padding: 10px 15px;
+	color: #fff;
+}
+
+form {
+	background: #3498db;
+}
+body.green form {
+	background: #4CAF50;
+}
+body.red form {
+	background: #e74c3c;
+}
+body.ocean form {
+	background: #2ecc71;
+}
+body.purple form {
+	background: #983ce7;
+}
+
+/* Pages Accueil */
+
+img.img_skill {
+	display: inline;
+	max-width: 80px;
+	border-radius: 100%;
+	transition: 500ms;
+}
+
+div.skill:hover img.img_skill {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+section.blanc {
+	background: #fff;
+}
+
+section.gris_fonce {
+	background: #F3F3F3 url('../images/gris_bg.jpg');
+	border-top: 1px solid #E9E9E9;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+.portfolio {
+	text-align: center;
+}
+.portfolio h2 {
+	margin-top: 0;
+}
+
+img.apercu_site {
+	max-width: 260px;
+	/*border: 1px solid #ccc;*/
+}
+
+/* Pages Portfolio */
+
+div.project h3 {
+	margin-top: 0;
+}
+
+div.project p.desc {
+	color: #777;
+	font-size: 12px;
+}
+
+/* Pages CV */
+
+div.cv_content {
+	background: #fff;
+	border: 1px solid #E9E9E9;
+	padding: 10px 20px;
+}
+
+div.cv_content h3 {
+	border: 1px solid #E9E9E9;
+	border-radius: 3px;
+	background: #F3F3F3;
+	font-size: 16px;
+	padding: 7px 15px;
+	font-weight: bold;
+	text-align: center;
+}
+
+div.cv_content div.photo_profil {
+	text-align: right;
+}
+
+div.cv_content img.thumbnail {
+	border-radius: 100%;
+	max-height: 130px;
+	display: inline;
+}
+
+/* Pages Contact */
+
+p.loi {
+	color: #ccc;
+	font-size: 12px;
+}

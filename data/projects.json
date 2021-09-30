@@ -1,0 +1,133 @@
+{
+  "projects":[
+	{
+	  "type_projet":"PERSO",
+	  "name":"USBS Epône",
+	  "url":"http:\/\/www.usbsepone.fr",
+	  "date":"2008-09-01",
+	  "desc_fr":"L’USBS Epône est le nom du club de football de la ville d’Epône.\\nCe site Internet a été fait pour que les joueurs de foot (ou les parents pour les jeunes joueurs) puissent avoir toutes les informations sur le club. Par exemple, les coordonnées de leur entraineur, le classement du championnat de leur équipe, le prochain match, etc. Le calendrier et classement du championnat pour chaque équipe est actualisé chaque semaine par l’entraineur. On y trouve également l’actualité du club (manifestations sportives, brocante, etc.), l’histoire du club, les membres du bureau du club et des photos de chaque équipe.\\nLa partie publique a été très facile et rapide à réaliser, mais j’ai aussi développé une interface d’administration complexe où l’on doit pouvoir tout ajouter, modifier ou supprimer. Un système de droit limite les accès aux sections dans l’administration.\\nIl m’aura fallu environ 2 mois à le réaliser, ce site étant relativement complet. Le design du site, inspiré d’un des template du site www.freecsstemplates.org et du site Agora Foot, respecte les couleurs du club. Le logo, la photo du stade, l’adresse de celui-ci, toutes les équipes du club ainsi que les actualités du club sont visibles en première page.",
+	  "preview_filename":"usbs_epone.png",
+	  "displayed":0
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"AgoraFoot",
+	  "url":"http:\/\/www.agorafoot.fr",
+	  "date":"2008-07-01",
+	  "desc_fr":"Agora Foot est le 2ème site que j’ai réalisé chez l’entreprise Osimatic, cette fois-ci en CDD, pendant l’été 2008.\\nAgora Foot est un service de chat pour supporter de football. Il permet à des fans d’une équipe de foot de se parler à plusieurs au téléphone après un soir de match par exemple, pour expliquer les raisons de la défaite, ou de débattre sur l’arrivée prévue d’un joueur, etc.\\nLe site a été fait sans framework, avec un design basé sur celui de Wikitel mais largement modifié par la suite. L’accent a été mis sur la simplicité d’utilisation, je me suis efforcé d’expliquer sur chaque page à quoi elle servait, qu’est-ce qu’on pouvait y faire, etc. De n’importe quelle page on peut accéder aux différentes équipes enregistrés et les types de chat sont disponibles directement sur l’accueil.\\nLe site est actuellement terminé, il est en cours de lancement par la société.",
+	  "desc_en":"AgoraFoot is the second site that I developped at Osimatic, this time in CSD during the summer of 2008.\\nAgoraFoot is a chat service for football fans. Fans of a football team can talk to others on phone after a football match (for example, to talk about reasons for defeat, or discuss about arrival of a player, etc...).\\nThe site was made without a framework, with a design based on Wikitel but extensively modified thereafter. The website is user-friendly, I tried to explain on each page what it was for, what we could do there, etc.. Users have an access of each football teams from any pages and all current chat are available directly from homepage.\\nThe site is now completed, it is being launched by the company.",
+	  "preview_filename":"agorafoot.png",
+	  "displayed":0
+	},
+	{
+	  "type_projet":"PERSO",
+	  "name":"Photos de la famille Guiraudou",
+	  "url":"http:\/\/photos.guiraudou.fr",
+	  "date":"2008-07-01",
+	  "desc_fr":"Le site des photos de la famille Guiraudou contient donc l’ensemble de nos photos numériques depuis 2004. Il a été crée en juillet 2008 après mes 20 ans, je voulais que la famille, les amis,… puissent voir nos photos sans qu’un visiteur inconnu puisse les regarder.\\nLe site comporte donc un système de droit qui assure la confidentialité de nos photos. En effet, pour que quelqu’un puisse voir nos photos, il doit s’inscrire. Une fois inscrite, la personne doit attendre que je lui active les événements qu’elle peut voir. Un événement est en fait un ensemble de photo, un événement correspond à un mois et une année, il peut évidemment avoir plusieurs événements dans un même mois (par exemple, l’anniversaire de mes 20 ans est un événement qui a eu lieu en juin 2008).\\nUne fois que les droits du nouveau inscrit sont validés, il doit se connecter et peut enfin regarder les photos des événement autorisés.\\nLes photos sont donc rangés par année, mois et événements. L’ajout d’un événement est très simple : une fois l’upload des photos sur le site terminée, la partie administration repere automatiquement le nouvel événement. Il me suffit de lui donner un nom, d’autoriser les personnes ayant le droit de voir les nouvelles photos et le tour est joué.\\nCe site a été réalisé en PHP très rapidement, cette rapidité s’expliquant par le fait que l’inscription et la connexion ont été reprises d’un autre site (pourquoi réécrire plusieurs fois la même chose) et par le design que j’ai pris sur www.freecsstemplates.org . Après quelques améliorations du design et quelques corrections de bug (en particuliers la compression de la totalité des photos), j’ai donnée à tous mes contacts l’adresse du site pour qu’ils puissent voir nos photos.",
+	  "desc_en":null,
+	  "preview_filename":"photos_guiraudou.png",
+	  "displayed":0
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"WikiTel",
+	  "url":"http:\/\/www.wikitel.fr",
+	  "date":"2008-06-01",
+	  "desc_fr":"Wikitel est un site de partage de connaissance par téléphone.\\nLorsqu’un internaute s’inscrit sur Wikitel, il a la possibilité de proposer un service sur un sujet particulier, par exemple pour des cours de francais, de la voyance, de la formation en informatique, etc. L’auteur du service organise alors des conférences téléphoniques sur le thème de son service et d’autres internautes intéressés par le sujet le rejoigne en conférence. Chacun peut écouter le cours du conférencier et lui poser des questions à tout moment.\\nSur le plan de la programmation, le site a été réalisé dans le cadre de mon stage de DUT informatique chez l’entreprise Osimatic. Le site a été développé à l’aide du Zend Framework. C’est sur ce site que j’ai appris à programmer en objet avec PHP.",
+	  "desc_en":"Wikitel is a site for sharing knowledge by telephone.\\nWhen a user registers on Wikitel, he can provide a service on a particular topic, for example French courses, clairvoyance, computer training, etc.. The coach can organizes conference calls on the theme of his service. Users interested in topic can join the coach into the conference. Everyone can listen over the speaker and ask questions at any time.\\nIn terms of programming, the site was created during my training of my DUT (Technological University Diploma) at the company Osimatic. The site was developed using the Zend Framework. It was on this site that I learned to program in PHP object.",
+	  "preview_filename":"wikitel.png",
+	  "displayed":0
+	},
+	{
+	  "type_projet":"PERSO",
+	  "name":"DefiQuizz",
+	  "url":"http:\/\/www.defiquizz.fr",
+	  "date":"2008-03-01",
+	  "desc_fr":"DefiQuizz est un site qui permet de tester sa culture générale.\\nLe principe est simple, les utilisateurs effectuent des quizz et le score du quizz permet de déterminer le classement du joueur par rapport aux autres membres du site. Un quizz une série de 5 à 20 questions sur un thème particuliers avec 4 choix de réponses possibles.\\nDefiQuizz est mon premier site développé en PHP, sans framework, et tout seul. Au départ, je n’utilisais pas la programmation objet de PHP puisque je ne l’ai pas apprise pendant mon DUT, le site n’en était qu’à sa première version. Ce n’est qu’après avoir appris la programmation objet en PHP lors de mon stage (voir le projet Wikitel) que je me suis mis à réécrire complètement le site pour programmer en objet, de façon à structurer clairement les fonctionnalités de l’application web.\\nAvec quelques membres inscrits et de nombreux quizz effectués, DefiQuizz a connu un relatif succès après son « lancement » avant de ne plus être utilisé. Je l’ai mis en ligne en avril 2008 sans faire de pub, je l’ai simplement ajouté sur quelques annuaires de site.\\nLe site a été concu en MVC. C’est une architecture qui permet de séparer le code PHP des pages HTML. Ainsi, si j’effectue des modifications au niveau des fonctionnalités du site, je ne touche pas à un seul fichier HTML. La structure du site est donc claire et la maintenance facilitée. La version 2 est actuellement en cours de réalisation, de nombreuses fonctionnalités supplémentaires seront ajoutées. Les membres pourront notamment ajouter leur propre quizz, les thèmes seront refait et des sous-thèmes amélioreront l’organisation des quizz. Les scores seront complètement réécrits, on pourra par exemple voir le pourcentage de bonnes réponses pour un quizz, les meilleurs scores pour un quizz seront visibles sans limite (on pourra voir le top 100 des meilleurs scores s’il y a au moins 100 joueurs qui ont fini le quizz). Il y aura toujours les meilleurs scores sur un thème précis, sur un sous-thème précis. Des graphiques illustrant les stats des joueurs seront aussi implémentés. Le design du site sera complètement différent, il sera sur fond clair, avec les thèmes et sous-thème à droite, les nouveaux quizz en page d’accueil. Elle devrait sortir en mars 2009 le jour où le site fêtera le 1er anniversaire de sa première version.",
+	  "desc_en":null,
+	  "preview_filename":"defiquizz.png",
+	  "displayed":0
+	},
+	{
+	  "type_projet":"PERSO",
+	  "name":"eZ-Remember",
+	  "url":null,
+	  "date":"2008-03-01",
+	  "desc_fr":"eZ-Remember est mon premier site réalisé complètement en PHP.\\nCe site est un lecteur de flux RSS. Il permet à un utilisateur qui s’inscrit de stocker la totalité de ses flux RSS personnels et de les lire directement à partir du site. Il existe certes de nombreux outils qui permettent de faire la même chose, comme  Google Reader, mais aucune application ne s’est spécialisée dans cette fonctionnalité. Conçu pour tout public, eZ-Remember se veut être d’une simplicité enfantine et son interface sur fond blanc est agréable et intuitive. Enfin, la lecture des flux en Ajax assure une meilleure interaction entre l’utilisateur et l’application.\\nLe site a été développé dans le cadre de ma formation universitaire, lors d’un projet à 6 personnes. Pour ma part, j’ai réalisé sur le site la partie base de données et l’ensemble des fonctions permettant d’y accéder. eZ-Remember a été développé à l’aide d’un framework, le Zend Framework.",
+	  "desc_en":"eZ-Remember is my first website built entirely in PHP.\\nThis site is an RSS reader. A registered user can store all of their personal RSS feed and read directly from the site. There are many tools to do the same thing, like Google Reader. But no application is specialized in this feature. Designed for all age groups, eZ-Remember wants to be a childlike simplicity and its interface is light, nice and intuitive. Finally, reading the stream by Ajax provides better interaction between user and application. \\nThis site was developed during my university education, in a team's project of 6 people. For my part, I realized the interaction between website and database by a set of functions. eZ-Remember was developed using a framework, Zend Framework.",
+	  "preview_filename":null,
+	  "displayed":0
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"myConf",
+	  "url":"https:\/\/www.myconf.com",
+	  "date":"2013-11-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"myconf_responsive.jpg",
+	  "thumbnail_filename":"myconf_responsive_min.jpg"
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"interConf",
+	  "url":"https:\/\/www.interconf.fr",
+	  "date":"2014-05-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"interconf_v2.jpg",
+	  "thumbnail_filename":"interconf_v2_min.jpg"
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"myTime",
+	  "url":"https:\/\/www.mytime.fr",
+	  "date":"2014-09-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"mytime_v2.jpg",
+	  "thumbnail_filename":"mytime_v2_min.jpg"
+	},
+	{
+	  "type_projet":"PERSO",
+	  "name":"Benoit Guiraudou",
+	  "url":"http:\/\/benoit.guiraudou.fr",
+	  "date":"2014-10-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"benoit_guiraudou_v2.jpg",
+	  "thumbnail_filename":"benoit_guiraudou_v2_min.jpg"
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"openConf",
+	  "url":"https:\/\/www.openconf.fr",
+	  "date":"2013-12-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"openconf_responsive.jpg",
+	  "thumbnail_filename":"openconf_responsive_min.jpg"
+	},
+	{
+	  "type_projet":"PRO",
+	  "name":"Agoratel",
+	  "url":"http:\/\/www.agoratel.fr",
+	  "date":"2013-05-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"agoratel.jpg",
+	  "thumbnail_filename":"agoratel_min.jpg"
+	},
+	{
+	  "type_projet":"PERSO",
+	  "name":"Parodie série",
+	  "url":"http:\/\/www.parodic.net",
+	  "date":"2012-10-01",
+	  "desc_fr":null,
+	  "desc_en":null,
+	  "preview_filename":"parodie_serie.jpg",
+	  "thumbnail_filename":"parodie_serie_min.jpg"
+	}
+  ]
+}

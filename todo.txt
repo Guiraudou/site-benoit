@@ -1,0 +1,4 @@
+- apercu site benoit
+- lien lang / passage trad en js
+- afficher infos contact
+- maj icone page cv

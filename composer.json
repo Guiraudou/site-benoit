@@ -1,0 +1,14 @@
+{
+    "name": "guiraudou/site-benoit",
+    "require": {
+	  "ext-json": "*"
+	},
+    "authors": [
+		{ "name": "Benoit Guiraudou", "email": "benoit.guiraudou@gmail.com" }
+	],
+	"autoload": {
+	  "psr-4" : {
+		"App\\" : "class/"
+	  }
+	}
+}

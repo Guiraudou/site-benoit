@@ -1,0 +1,9 @@
+﻿### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+vendor/
+composer.lock
+_old/
+.idea/
+data/rapports/

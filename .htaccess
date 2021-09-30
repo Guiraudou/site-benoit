@@ -1,0 +1,10 @@
+﻿#SetEnv PHP_VER 5
+
+RewriteEngine on
+
+RewriteRule ^home$ 					index.php [QSA,L]
+RewriteRule ^cv$ 					pages/cv.php [QSA,L]
+RewriteRule ^projects$ 				pages/projets.php [QSA,L]
+RewriteRule ^contact$ 				pages/contact.php [QSA,L]
+RewriteRule ^plan-du-site$ 			pages/plan_du_site.php [QSA,L]
+RewriteRule ^mentions-legales$ 		pages/mentions_legales.php [QSA,L]
